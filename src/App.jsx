@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './comps/header';
-import Footer from './comps/footer';
+import Header from './comps/Header';
+import Footer from './comps/Footer';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Series from "./pages/Series";
